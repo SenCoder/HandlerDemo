@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.tcl.demo.download.DownloadManager;
 import com.tcl.handler.demo.R;
 
 /**
@@ -15,6 +16,8 @@ import com.tcl.handler.demo.R;
  */
 
 public class DownloadFragment extends Fragment {
+
+    private DownloadManager mDownloadManager;
 
     @Nullable
     @Override
