@@ -1,4 +1,4 @@
-package com.tcl.demo;
+package com.tcl.demo.ui;
 
 import android.os.Handler;
 import android.os.Message;
